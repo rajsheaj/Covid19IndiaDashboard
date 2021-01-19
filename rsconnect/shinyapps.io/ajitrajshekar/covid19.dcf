@@ -1,0 +1,13 @@
+name: covid19
+title:
+username:
+account: ajitrajshekar
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2206417
+bundleId: 3212580
+url: https://ajitrajshekar.shinyapps.io/covid19/
+when: 1590985929.01238
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: scratchscript.R|scratchscript1.R|Input_Data/State_Capital_Coordinate.xlsx|bk
